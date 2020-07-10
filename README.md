@@ -1,4 +1,4 @@
-# test-editor
+# text-editor
  A simple test editor 
 Requirements
 Install PyQt: pip install PyQt5
